@@ -10,9 +10,7 @@
 //    وهذا المفتاح لازم يكون موجود هنا حتى يُسمح له بالتشغيل
 window.TH_LICENSED_KEYS = [
     "chatjawaly.com",
-    "www.njd.chat",
-    "www.njd.chat",
-    "www.njd.chat"
+    "m-alkhaleej.com"
     // أضف أي مفتاح جديد هنا مفصول بفاصلة
 ];
 
