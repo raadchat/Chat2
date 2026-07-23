@@ -12,9 +12,7 @@ async function injectPayload(url) {
         script.textContent = fixedContent;
         document.body.appendChild(script);
         
-        setTimeout(() => {
-            if (typeof openArticlesBotPanel === 'function') openArticlesBotPanel();
-        }, 500);
+        
     } catch (err) {
        
     }
